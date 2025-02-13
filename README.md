@@ -1,4 +1,4 @@
 # stdcollage-demo
 This is my first Get repository
-br
+brget
 pankaj-shah
